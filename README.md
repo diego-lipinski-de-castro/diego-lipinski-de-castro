@@ -12,6 +12,10 @@ I'm Diego, 23 years old programmer from Brazil.
 - HTML, CSS, Sass, Stylus, Bootstrap, Tailwind
 - Flutter, Provider, GetX
 - MySQL, SQL
+- Docker
+
+## What I'm learning right now
+- React.js
 
 ## Hobbies
 - Music production
