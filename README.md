@@ -8,6 +8,7 @@ I'm Diego, 23 years old programmer from Brazil.
 ## Skills
 - Laravel
 - Node.js, Webpack
+- API's
 - Javascript, jQuery, Vue.js, Next.js, Nuxt.js, PWA
 - HTML, CSS, Sass, Stylus, Bootstrap, Tailwind
 - Flutter, Provider, GetX
