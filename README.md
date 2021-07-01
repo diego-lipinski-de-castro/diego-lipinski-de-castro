@@ -21,6 +21,9 @@ I'm Diego, 23 years old programmer from Brazil.
 ## Hobbies
 - Music production
 
+## CV
+- [Here](https://docs.google.com/document/d/12MiWegAo42hvkfyNmnnozVcOAtixCqSW4pjmPjFcolE)
+
 ## Contact
 - [@diego-lipinski-de-castro](https://www.linkedin.com/in/diego-lipinski-de-castro) on LinkedIn
 - [@lipinski_mp3](https://twitter.com/lipinski_mp3) on Twitter
