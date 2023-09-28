@@ -1,25 +1,22 @@
 ## Hey! 👋
-I'm Diego, 23 years old programmer from Brazil.
+I'm Diego, 25 years old programmer from Brazil.
 
 - Started programming in 2014
 - Bachelor's by 2019
 - I can talk in Portuguese and English
 
 ## Skills
-- Laravel
-- Node.js, Webpack
-- API's
-- Javascript, jQuery, Vue.js, Next.js, Nuxt.js, PWA
-- HTML, CSS, Sass, Stylus, Bootstrap, Tailwind
-- Flutter, Provider, GetX
-- MySQL, SQL
-- Docker
-
-## What I'm learning right now
-- React.js
-
-## Hobbies
-- Music production
+- Laravel > 6 tears
+- Node.js > 2 years
+- API's > 5 years
+- Javascript > 5 years
+- Vue > 4 years
+- React/Next > 2 years
+- HTML, CSS, Sass, Stylus, Bootstrap, Tailwind > 6 years
+- Flutter, Provider, GetX > 3 years
+- MySQL, SQL > 4 years
+- Docker ~ 1 year
+- Nginx ~ 1 year
 
 ## CV
 - [Here](https://docs.google.com/document/d/12MiWegAo42hvkfyNmnnozVcOAtixCqSW4pjmPjFcolE)
