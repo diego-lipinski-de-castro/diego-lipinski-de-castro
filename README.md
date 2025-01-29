@@ -6,17 +6,17 @@ I'm Diego, 25 years old programmer from Brazil.
 - I can talk in Portuguese and English
 
 ## Skills
-- Laravel > 6 tears
-- Node.js > 2 years
-- API's > 5 years
-- Javascript > 5 years
-- Vue > 4 years
-- React/Next > 2 years
+- Laravel > 8 years
+- Node.js > 4 years
+- API's > 6 years
+- Javascript > 7 years
+- Vue > 5 years
+- React/Next > 3 years
 - HTML, CSS, Sass, Stylus, Bootstrap, Tailwind > 6 years
 - Flutter, Provider, GetX > 3 years
-- MySQL, SQL > 4 years
-- Docker ~ 1 year
-- Nginx ~ 1 year
+- MySQL, PostgreSQL > 6 years
+- Docker ~ 2 years
+- Nginx ~ 3 years
 
 ## CV
 - [Here](https://docs.google.com/document/d/12MiWegAo42hvkfyNmnnozVcOAtixCqSW4pjmPjFcolE)
