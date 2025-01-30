@@ -12,6 +12,7 @@ I'm Diego, 25 years old programmer from Brazil.
 - Javascript > 7 years
 - Vue > 5 years
 - React/Next > 3 years
+- AngularJS > 2 years
 - HTML, CSS, Sass, Stylus, Bootstrap, Tailwind > 6 years
 - Flutter, Provider, GetX > 3 years
 - MySQL, PostgreSQL > 6 years
