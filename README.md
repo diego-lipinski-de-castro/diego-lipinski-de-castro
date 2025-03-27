@@ -27,4 +27,4 @@ I'm Diego, 25 years old programmer from Brazil.
 
 ##
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=diego-lipinski-castro)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=diego-lipinski-de-castro)](https://github.com/ryo-ma/github-profile-trophy)
