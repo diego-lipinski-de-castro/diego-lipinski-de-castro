@@ -24,5 +24,7 @@ I'm Diego, 25 years old programmer from Brazil.
 
 ## Contact
 - [@diego-lipinski-de-castro](https://www.linkedin.com/in/diego-lipinski-de-castro) on LinkedIn
-- [@lipinski_mp3](https://twitter.com/lipinski_mp3) on Twitter
-- [@lipinski.wav](https://twitter.com/lipinski.wav) on Instagram
+
+##
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=diego-lipinski-de-castro)](https://github.com/ryo-ma/github-profile-trophy)
