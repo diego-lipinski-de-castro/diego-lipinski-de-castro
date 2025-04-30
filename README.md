@@ -23,6 +23,6 @@ I'm Diego, 26 years old programmer from Brazil.
 - Langchain ~ 1 year
 - Queues (RabbitMQ) > 2 years
 
-# Projects
+# Open Projects
 
-[JaGastei](https://github.com/jagastei/jagastei.com.br)
+- [JaGastei](https://github.com/jagastei/jagastei.com.br)
