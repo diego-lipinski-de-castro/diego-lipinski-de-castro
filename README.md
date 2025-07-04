@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Diego, 26 years old programmer from Brazil.
+I'm Diego, 26 years old programmer from Brazil. Currently I am playing the CTO role at [Rauzee](linkedin.com/company/90810020), which I am the founding engineer.
 
 - Started programming in 2014
 - Bachelor's by 2019
@@ -23,6 +23,8 @@ I'm Diego, 26 years old programmer from Brazil.
 - Langchain ~ 1 year
 - Queues (RabbitMQ) > 2 years
 - Python ~ 2 years
+- AWS (Lambda, ECS, ECR, EC2, RDS, SQS, S3 and more)  ~ 2 years
+- Terraform/AWS CDK - ~ 1 year
 
 # Open Projects
 
