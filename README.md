@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Diego, 26 years old programmer from Brazil. Currently I am playing the CTO role at [Rauzee](linkedin.com/company/90810020), which I am the founding engineer.
+I'm Diego, 26 years old programmer from Brazil. Currently I am playing the CTO role at [Rauzee](https://linkedin.com/company/90810020), which I am the founding engineer.
 
 - Started programming in 2014
 - Bachelor's by 2019
