@@ -1,6 +1,11 @@
 ## Hey! 👋
 I'm Diego, 26 years old programmer from Brazil. Currently I am playing the CTO role at [Rauzee](https://linkedin.com/company/90810020), which I am the founding engineer.
 
+# Open source projects I work on my free time
+
+- [JaGastei - finance management](https://github.com/jagastei/jagastei.com.br)
+- [Transparent - cluely but open source]([https://github.com/jagastei/jagastei.com.br](https://github.com/diego-lipinski-de-castro/transparent))
+
 - Started programming in 2014
 - Bachelor's by 2019
 - Portuguese C2
@@ -25,7 +30,3 @@ I'm Diego, 26 years old programmer from Brazil. Currently I am playing the CTO r
 - Python ~ 2 years
 - AWS (Lambda, ECS, ECR, EC2, RDS, SQS, S3 and more)  ~ 2 years
 - Terraform/AWS CDK - ~ 1 year
-
-# Open Projects
-
-- [JaGastei](https://github.com/jagastei/jagastei.com.br)
