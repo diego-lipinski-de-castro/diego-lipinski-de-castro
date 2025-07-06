@@ -6,6 +6,7 @@ I'm Diego, 26 years old programmer from Brazil. Currently I am playing the CTO r
 - [JaGastei - finance management](https://github.com/jagastei/jagastei.com.br)
 - [Transparent - cluely but open source]([https://github.com/jagastei/jagastei.com.br](https://github.com/diego-lipinski-de-castro/transparent))
 
+## Misc
 - Started programming in 2014
 - Bachelor's by 2019
 - Portuguese C2
