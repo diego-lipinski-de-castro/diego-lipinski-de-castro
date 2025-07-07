@@ -10,7 +10,7 @@ I'm Diego, 26 years old programmer from Brazil. Currently I am playing the CTO r
 - Started programming in 2014
 - Bachelor's by 2019
 - Portuguese C2
-- English C1
+- English C2
 
 ## Skills
 - Laravel > 8 years
